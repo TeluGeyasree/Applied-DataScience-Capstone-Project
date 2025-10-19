@@ -25,7 +25,7 @@ The analysis involves collecting and preprocessing data, performing exploratory 
 | `6_Interactive Visual Analytics with Folium.ipynb` | Folium map and interactive visuals |
 | `7_SpaceX_Machine_Learning Prediction.ipynb` | ML model training and evaluation |
 | `spacex_dash_app.py` | Plotly Dash interactive dashboard |
-| `ds-capstone-presentation`| whole project summary and methodology`|
+| `ds-capstone-presentation`| whole project summary and methodology|
 
 ---
 
