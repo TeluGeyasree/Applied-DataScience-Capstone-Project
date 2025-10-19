@@ -64,12 +64,12 @@ The analysis involves collecting and preprocessing data, performing exploratory 
 git clone https://github.com/TeluGeyasree/Applied-DataScience-Capstone-Project.git
 cd Applied-DataScience-Capstone-Project
 
-2. **Open Jupyter Notebook and run through the analysis:**
+3. **Open Jupyter Notebook and run through the analysis:**
 jupyter notebook
 
-3. **Explore results directly in each notebook.**
+4. **Explore results directly in each notebook.**
 
-4.**To run the interactive dashboard app.**
+ 4.**To run the interactive dashboard app.**
 python spacex_dash_app.py
 
 
