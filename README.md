@@ -13,21 +13,19 @@ The analysis involves collecting and preprocessing data, performing exploratory 
 
 ---
 
-## Project Structure
-Applied-DataScience-Capstone-Project/
-│
-├── 1_Spacex_API_Data_Collection.ipynb # Extracts SpaceX launch data using the API
-├── 2_Data_Collection_WebScraping.ipynb # Scrapes additional launch data from Wikipedia
-├── 3_Data_Wrangling.ipynb # Cleans and prepares the data
-├── 4_EDA_with_SQL.ipynb # EDA using SQL queries
-├── 5_EDA_with_Visualization.ipynb # Data visualization with Matplotlib/Seaborn
-├── 6_Interactive Visual Analytics with Folium.ipynb # Folium map and interactive visuals
-├── 7_SpaceX_Machine_Learning Prediction.ipynb # ML model training and evaluation
-├── spacex_dash_app.py # Plotly Dash interactive dashboard
-├── ds-capstone-presentation # Comprehensive project summary  methodology
-└── README.md # Project documentation (this file)
+## Project files
 
-undefined
+| File/Folder | Description |
+|--------------|-------------|
+| `1_Spacex_API_Data_Collection.ipynb` | Extracts SpaceX launch data using the API |
+| `2_Data_Collection_WebScraping.ipynb` | Scrapes additional launch data from Wikipedia |
+| `3_Data_Wrangling.ipynb` | Cleans and prepares the data |
+| `4_EDA_with_SQL.ipynb` | EDA using SQL queries |
+| `5_EDA_with_Visualization.ipynb` | Data visualization with Matplotlib/Seaborn |
+| `6_Interactive Visual Analytics with Folium.ipynb` | Folium map and interactive visuals |
+| `7_SpaceX_Machine_Learning Prediction.ipynb` | ML model training and evaluation |
+| `spacex_dash_app.py` | Plotly Dash interactive dashboard |
+| `ds-capstone-presentation`| whole project summary and methodology`|
 
 ---
 
