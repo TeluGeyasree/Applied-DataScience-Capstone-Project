@@ -16,16 +16,18 @@ The analysis involves collecting and preprocessing data, performing exploratory 
 ## Project Structure
 Applied-DataScience-Capstone-Project/
 │
-├── Notebooks/ # Jupyter notebooks for each step
-│ ├── Data_Collection.ipynb
-│ ├── Data_Wrangling_EDA.ipynb
-│ ├── Model_Building.ipynb
-│ └── Visualization.ipynb
-│
-├── presentation_slides.pdf # Final project presentation
-├── data/ # Datasets used (if applicable)
-├── requirements.txt # Dependencies list
+├── 1_Spacex_API_Data_Collection.ipynb # Extracts SpaceX launch data using the API
+├── 2_Data_Collection_WebScraping.ipynb # Scrapes additional launch data from Wikipedia
+├── 3_Data_Wrangling.ipynb # Cleans and prepares the data
+├── 4_EDA_with_SQL.ipynb # EDA using SQL queries
+├── 5_EDA_with_Visualization.ipynb # Data visualization with Matplotlib/Seaborn
+├── 6_Interactive Visual Analytics with Folium.ipynb # Folium map and interactive visuals
+├── 7_SpaceX_Machine_Learning Prediction.ipynb # ML model training and evaluation
+├── spacex_dash_app.py # Plotly Dash interactive dashboard
+├── ds-capstone-presentation # Comprehensive project summary  methodology
 └── README.md # Project documentation (this file)
+
+undefined
 
 ---
 
@@ -64,13 +66,14 @@ Applied-DataScience-Capstone-Project/
 git clone https://github.com/TeluGeyasree/Applied-DataScience-Capstone-Project.git
 cd Applied-DataScience-Capstone-Project
 
-2. **Install dependencies:**
-pip install -r requirements.txt
-
-
-3. **Open Jupyter Notebook and run through the analysis:**
+2. **Open Jupyter Notebook and run through the analysis:**
 jupyter notebook
-4. **Explore results directly in each notebook.**
+
+3. **Explore results directly in each notebook.**
+
+4.**To run the interactive dashboard app.**
+python spacex_dash_app.py
+
 
 ---
 
